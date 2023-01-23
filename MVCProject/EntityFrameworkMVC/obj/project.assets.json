@@ -10510,24 +10510,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zagex\\.nuget\\packages\\": {},
-    "D:\\VStudioExtra\\NuGetPackages": {}
+    "C:\\Users\\STUDENTS-1212-10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zagex\\Desktop\\BlogMVC\\EntityFrameworkMVC\\EntityFrameworkMVC.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENTS-1212-10\\Desktop\\MVCProject\\MVCProject\\EntityFrameworkMVC\\EntityFrameworkMVC.csproj",
       "projectName": "EntityFrameworkMVC",
-      "projectPath": "C:\\Users\\zagex\\Desktop\\BlogMVC\\EntityFrameworkMVC\\EntityFrameworkMVC.csproj",
-      "packagesPath": "C:\\Users\\zagex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zagex\\Desktop\\BlogMVC\\EntityFrameworkMVC\\obj\\",
+      "projectPath": "C:\\Users\\STUDENTS-1212-10\\Desktop\\MVCProject\\MVCProject\\EntityFrameworkMVC\\EntityFrameworkMVC.csproj",
+      "packagesPath": "C:\\Users\\STUDENTS-1212-10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\STUDENTS-1212-10\\Desktop\\MVCProject\\MVCProject\\EntityFrameworkMVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\VStudioExtra\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\zagex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\STUDENTS-1212-10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10591,7 +10586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
